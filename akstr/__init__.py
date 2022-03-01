@@ -1,4 +1,4 @@
-from .akstr import sum_as_string
+from .akstr import sum_as_string, upper
 
 api = [
     'capitalize',
